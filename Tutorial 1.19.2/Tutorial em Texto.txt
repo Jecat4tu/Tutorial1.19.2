@@ -1,0 +1,46 @@
+Antes de tudo certifique-se de ter o Java 17.0.1 ou mais atualizado, se não o Minecraft a partir da versão 1.17 não irá funcionar.
+
+*Tutorial*
+
+1. Abra a pasta "Launcher" e inicie o Launcher Fenix;
+2. Abra o perfil e Selecione a Versão 1.19.2; (Caso dê algum problema veja o .txt "Caso dê Erro com o Java"
+3. Inicie o MInecraft, após aberto o jogo feche ele, apenas precisamos dos arquivos iniciais;
+4. Na pasta "Launcher" abra o arquivo 'fabric-instaler-0.11.1.jar'
+5. Escolha a Versão 1.19.2 e instale a versão mais recente;
+
+* Windows *
+
+1. Aperte Ctrl+R;
+2. Digite %AppData%;
+3. Vá na pasta "Roaming";
+4. Abra a .minecraft;
+5. Copie a pasta "mods" da pasta de Tutorial 1.19.2 para a ".minecraft";
+6. Abra novamente o Launcher Fenix;
+7. Selecione a versão com o fabric-loader;
+8. Divirta-se com os mods.
+
+* Linux/Mac *
+
+1. Acesse a pasta em que está o Launcher;
+2. Clique com o botão direito e vá em "Permissões";
+3. Marque a caixa " Permitir que o Arquivo seja executado como um Programa";
+4. Abra o gerenciador de arquivos na /home;
+6. Aperte Crtl+H para revelar os itens ocultos;
+7. Abra a .minecraft;
+8. Copie a pasta "mods" da pasta de Tutorial 1.19.2 para a ".minecraft";
+9. Abra novamente o Launcher Fenix;
+10. Selecione a versão com o fabric-loader;
+11. Divirta-se com os mods.
+
+*Erro de Não Iniciar no Linux*
+
+1. Solução: Execute o Arquivo com o comando $sudo java -jar "Nome do Arquivo.jar"
+2. Solução: Veja se a versão do java é correspondente com a necessária para rodar o Minecraft 1.19.2;
+	É possivel ver isso no launcher na area de "Ejecutable".
+	Caso não esteja instalada é possivel baixar ela no site da Oracle.
+		->Para Base Ubuntu: arquivos .deb;
+		->Para Base Fedora: arquivos .rpm;
+		->Para outras bases, recomendo pesquisar;
+3. Solução: Atualize os Drivers de vídeo; É possivel que por ter drivers antigos ou duplicados o jogo não inicie, muitas distribuições atualizam automáticamente, 
+mas se for o caso de arquivos velhos/corrompidos/duplicados :(não copie os parenteses)
+	1. Busque saber como remover esses pacotes. No Ubuntu o comando é $sudo apt autoremove -y

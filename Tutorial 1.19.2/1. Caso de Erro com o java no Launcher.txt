@@ -1,0 +1,13 @@
+Abra o perfil, Selecione "Argumentos JVM" e cole o comando;
+
+-Xmx1G -XX:+UseConcMarkSweepGC -XX:+IgnoreUnrecognizedVMOptions
+
+
+-Xmx1G = 1gb de ram alocado para o mine, mude o valor de acordo com o quanto de ram disponível vc tiver, segue os valores:
+
+-Xmx1G = 1GB
+-Xmx2G = 2GB
+-Xmx3G = 3GB
+-Xmx4G = 4GB
+
+Assim segue, é recomendável que se use metade damemoria ram total do pc, porém aloque o que o seu pc aguentar, não mais que 60% da memoria total do pc.

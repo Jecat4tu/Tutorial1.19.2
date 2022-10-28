@@ -1,0 +1,6 @@
+Esse é um Sildurs Shader, não se assuste pelo nome, é o mais básico que tem, O Modpack conta com o Iris Mod, assim permitindo que vc use shaders no mine, 
+claro q se seu pc for muito batata, n é recomendável que use shader muito pesados ou msm que os utilize, estou pondo ele aqui como uma opção;
+
+Todos Os Direitos Reservados para a equipe criadora.
+
+Oficialmente disponível em : https://sildurs-shaders.github.io
